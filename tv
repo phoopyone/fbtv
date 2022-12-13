@@ -74,6 +74,11 @@
       "link":"http://183.89.246.119:8881/play/a082/index.m3u8"
         },
         {
+          "title":"MNTV",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXkOwMEYzpAiOoBJpBkjAqQvsR4UTwwvJ38PE41Vl2WC3DYH_dQqH9LQDfPcnWl5S5sywpHDZqVHEw6AAFcjlAZylnyb_fvhxzLVKRvKdKwjKh2b1nouOsU76FORgdNFAyKEu8mKPO_wRcRDX21KKdmk8Bdp77LE-tqEvvD_e_odgqZhqTw2_NEgp_KQ/s320/IMG_20221208_004614.jpg",
+      "link":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
+        },
+        {
           "title":"DUBAI SPORTS",
       "img":"https://i.pinimg.com/originals/bb/b0/36/bbb0362748b344227dcc3683769fc53b.png",
       "link":"https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8"
@@ -146,13 +151,7 @@
       "img":"https://petervasvari.com/upload/58983b95b3d85/58983bd087e20.jpg",
       "link":"https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8"
         },
-      
-      
-        {
-          "title":"MNTV",
-      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXkOwMEYzpAiOoBJpBkjAqQvsR4UTwwvJ38PE41Vl2WC3DYH_dQqH9LQDfPcnWl5S5sywpHDZqVHEw6AAFcjlAZylnyb_fvhxzLVKRvKdKwjKh2b1nouOsU76FORgdNFAyKEu8mKPO_wRcRDX21KKdmk8Bdp77LE-tqEvvD_e_odgqZhqTw2_NEgp_KQ/s320/IMG_20221208_004614.jpg",
-      "link":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
-        },
+
 
 {"title":"TRT 4K",
       "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj7HBJZENIsQL_tQmnbVhFYcO9Pfx5DLqFi2ufB96A_CeKCrsxun5cNHopzpJ8HYF4F8LzKETR--9wzyslwKq5h69V4cSvQtGADOJzzmVejbsEvf4v5oDBqR8FgN9wYMQevaY7vw_ya77_6Ew9xPWseZ7afYXUqvm6uKyRfgR-0pKcXc5cph8T-uo_9Q/s320/IMG_20221210_100956.jpg",
