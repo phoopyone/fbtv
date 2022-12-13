@@ -1,22 +1,161 @@
-[
-    {
-        "title": "Channel 7",
-        "img": "https:\/\/www.myanmartvchannels.com\/assets\/cache\/images\/channeliconb\/channel7-120x120-81c.jpg",
-        "link": "https:\/\/foreveralive1-a.akamaihd.net\/db889d68019848c5b303610afdae3190\/ap-southeast-1\/6057949479001\/profile_2\/chunklist.m3u8"
-    },
-    {
-        "title": "MRTV-4",
-        "img": "https:\/\/www.myanmartvchannels.com\/assets\/cache\/images\/channeliconb\/mrtv42-120x120-81c.jpg",
-        "link": "https:\/\/foreveralive1-a.akamaihd.net\/7cbf965de49a4f308eb64b980e690a38\/ap-southeast-1\/6057949479001\/profile_2\/chunklist.m3u8"
-    },
-    {
-        "title": "Mahar Bawdi",
-        "img": "https:\/\/www.myanmartvchannels.com\/assets\/cache\/images\/channeliconb\/maharbawdi-120x120-188.jpg",
-        "link": "https:\/\/foreveralive1-a.akamaihd.net\/327fbb9692d74b8a9fd35e75359fa826\/ap-southeast-1\/6057949479001\/profile_2\/chunklist.m3u8"
-    },
-    {
-        "title": "Manu TV",
-        "img": "https:\/\/download.cnet.com\/a\/img\/resize\/8b5d0dbb0a2b29c18669211339cdc84d715b8f66\/catalog\/2017\/05\/19\/25923a33-6a77-4a4a-be1d-ed2353891e50\/imgingest-6715501462593084481.png?auto=webp&fit=crop&width=64",
-        "link": "https:\/\/bcovlive-a.akamaihd.net\/r2d2c4ca5bf57456fb1d16255c1a535c8\/eu-west-1\/eu-west-1\/6058004203001\/profile_2\/chunklist.m3u8"
-    }
-]
+[ 
+      { 
+        "title":"Mizzima TV",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj_0xMnh6t5VMeOROli1MPgMunojT04xm2DEv-OSypXC5MM6go0VAm8fe4rjzEubnjmnDfbFJsOsvqhxzcH2CD9Qcl8meh2ERj8OoSY4bfdoZAGOAUm4-rKwxJGWk5w5NPBnKtE0Y4HPnEusp3wETZNW0qBLSHujHHjAkRv7_GsTFN2KGcmk4g6VlS1g/s320/IMG_20221210_093626.jpg",
+      "link":"https://mizzima-live.b-cdn.net/live2_720.m3u8"
+      },
+      
+        {
+          "title":"Mrtv-4",
+      "img":"http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg",
+      "link":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+        },
+      
+      
+        {
+          "title":"Channel 7",
+      "img":"http://static.pyoneplay.com/static/live/li_bg_1571902868.jpg",
+      "link":"http://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+        },
+      
+      
+        {
+          "title":"Maharbawdi",
+      "img":"http://static.pyoneplay.com/static/live/li_bg_1557296214.jpg",
+      "link":"https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8"
+        },
+      
+      
+        {
+          "title":"Channel K",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJog7_EA5NquPs5uzIR7vpz0pO3C8cG7RIEo4XoKBJJk3tcsiJ7HcKTK6wAUebqWhBMYUjUJoRaqx99DZcrN_Yzkyt9Gj_SaICF8Xb5j0EPHKWmnoK9xYJ3Wgnc5yytH-d9_bnk_nmlk9aOQoI2uQc6UTvv6kItDBrDmwIgAOANtCh4PCwAzHFyaeXOg/s320/IMG_20221210_094213.jpg",
+      "link":"https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_mobile/index.m3u8"
+        },
+      
+      
+        {
+          "title":"Mahar",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirAEC314VzZO4dyK-DXV2NsiRtfniiiNAZPqEwptJkoHBkAVnpGDSMejTjtcPm6yyCyHmQBQtl3uNXuqBzhZu5wOc4VgE27AVvWgKNZczCgYHLwVo_a6XghJn3qfZWhvBgBMqWXDunmasvm5F-LnMxGPHk8_4L_6rx0priuaNbWzqWjb5FRvIjyJPBOA/s320/IMG_20221210_094857.jpg",
+      "link":"https://tv.mahar.live/mahar/website.stream/playlist.m3u8"
+        },
+      
+      
+        {
+          "title":"MM Movies",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYkPCd1EbGG4Dl-AFwepyG7oC8EWcWJZRbsUbnYCi-duubQqXovQ2kGXrS3Tbf3w8asU4XP63ga_dgQQ7GTU3TnWPP-ci6-NNgYQB86aSeBi4I0Drpkq8X2Lu833nbEpvgLaqEOz4uApw-PtEWAGdM-LX6gL5kN7Sc0t8IbyT5h-Mfel0iromqltSNxg/s320/IMG_20221210_094602.jpg",
+      "link":"https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8"
+        },
+      
+      
+        {
+          "title":"5 Plus",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9P0rMy4uyoA6HcCs90CbLqjSugMR7eVSXxwkty-_Qn-YysOg5PDzikFYJBjSIME4yc4yZQywvr7n3sIk7IT_ZKte8vho1wBwWG-cP3qtN4bzu3FVhtGaEit32JSyRfRrmgrExH9N6l_q-R2axB3AfeRKbT1506RLzhKbN-utgVib3mLGEz1EdIEaCMA/s320/IMG_20221208_003305.jpg",
+      "link":"http://183.89.246.119:8881/play/a07w/index.m3u8"
+        },
+      
+      
+        {
+          "title":"Channel Me",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifs09lOaVHuFUWJryi26qJ-o2tp7sjPKQQULS1NvptWN-DJTChLv3bE1lDY2f72Jfj1Xi6dMu7lL2E0Wf20BYaxC6je8rShpHkK80LT-pV_oLW_lt9zRwbBGp-Rrp-mTf4YXIJFZAOflF7vgSwDbMb7Dct48MH8V9OQMcEySlKFb2tpYqylfOzw18OMQ/s320/IMG_20221210_100401.jpg",
+      "link":"http://183.89.246.119:8881/play/a07t/index.m3u8"
+        },
+      
+      
+        {
+          "title":"MM Music",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-McxaE2giGNuaswnCmhjhIX1jVbpM0zuEOFQDRzXQwAlEMkQCa9lScp9iuzJlYtpXImNpp8S-KuX9tQzNqp9xAZpvPAL2C8W46vKYtlfXxU842zrRu6q4wX7JQnDFIBOtcvoWUvmchkftp80pxPd_AuDKlu3anPw7LM5DjH6nPaFgDhralfeUuj_tFw/s320/IMG_20221208_110044.jpg",
+      "link":"https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8"
+        },
+      
+      
+        {
+          "title":"Fortune Tv",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0OfaSHymzflJlw8dbotMbQrWfuAAQhSJ8Oc77d-5lYR8E4yzgELmngxZd9y6rylQfBmdeOIhU8i7zqJZTP2rmoa_8vNGNE9YIPCQTSpWciJHxBcl_QfW8UdJTDvvzex6_XPIUCxvCI7TN4Lh9FYMfKvgnvuxkyp77LZdPsTNMLwsb4u2lDDlqAfxORg/s320/IMG_20221208_005706.jpg",
+      "link":"http://183.89.246.119:8881/play/a082/index.m3u8"
+        },
+      
+      
+        {
+          "title":"MNTV",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXkOwMEYzpAiOoBJpBkjAqQvsR4UTwwvJ38PE41Vl2WC3DYH_dQqH9LQDfPcnWl5S5sywpHDZqVHEw6AAFcjlAZylnyb_fvhxzLVKRvKdKwjKh2b1nouOsU76FORgdNFAyKEu8mKPO_wRcRDX21KKdmk8Bdp77LE-tqEvvD_e_odgqZhqTw2_NEgp_KQ/s320/IMG_20221208_004614.jpg",
+      "link":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
+        },
+
+{"title":"TRT 4K",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj7HBJZENIsQL_tQmnbVhFYcO9Pfx5DLqFi2ufB96A_CeKCrsxun5cNHopzpJ8HYF4F8LzKETR--9wzyslwKq5h69V4cSvQtGADOJzzmVejbsEvf4v5oDBqR8FgN9wYMQevaY7vw_ya77_6Ew9xPWseZ7afYXUqvm6uKyRfgR-0pKcXc5cph8T-uo_9Q/s320/IMG_20221210_100956.jpg",
+      "link":"http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/379.ts"
+        },
+{
+          "title":"Sport Tv 1",
+      "img":"https://img.sport-tv-guide.live/images/stations/a450.png",
+      "link":"http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/74113.ts"
+        },
+{
+          "title":"BBC One",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimsqaBWTHMLbglmYnnDiVQBws1aP3s35wVmwQ7kyMtacC2xzGzDl_81ZnvGwt2gEUvq8KCZ19ihzrLOYe1GJ935qeF3e1330zAqCRXXTtvBbtRbXeZY35VBG3Qa4mD59H-ScVzGhyZSyC4balaQ3bSeYV7Bz4kyfrhMMzNl7op2RGo8zhP4ORvluUDdQ/s320/IMG_20221210_135810.jpg",
+      "link":"http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/285.ts"
+        },
+
+{
+          "title":"Rai 1",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit85D6g9laSDqf1k0J4MZi8Vh5OfSxBziDaO3NGNeR3vEOQz9pLiUWlnvNUoDdYgTRnX4OvpPtVnuAsOi3SuWfROfRwXdBG0-J9pUnlm4ToQE_E6FNKVb28S1XJlZzw6gs9Jm_dWIgiK2ETWfionIYcX2U7v-hgJbE82NqqJ1gXASyzNPPOtRpiudMAA/s1600/IMG_20221210_204539.png",
+      "link":"http://daddyserver.com:8080/live/@CLMediastreams/UmjV6v3eC2/48986.ts"
+        },
+
+
+
+{
+          "title":"TRT 4K",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj7HBJZENIsQL_tQmnbVhFYcO9Pfx5DLqFi2ufB96A_CeKCrsxun5cNHopzpJ8HYF4F8LzKETR--9wzyslwKq5h69V4cSvQtGADOJzzmVejbsEvf4v5oDBqR8FgN9wYMQevaY7vw_ya77_6Ew9xPWseZ7afYXUqvm6uKyRfgR-0pKcXc5cph8T-uo_9Q/s320/IMG_20221210_100956.jpg",
+      "link":"http://daddyserver.com:8080/live/@s1entertainment/FDV3t2hZsj/379.ts"
+        },
+      
+{
+          "title":"RTSH Sport",
+      "img":"https://tvprofil.com/img/kanali-logo/RTSH_Sport_AL_logo.png",
+      "link":"http://185.89.156.111:8000/play/a022?"
+        },
+{
+          "title":"MATH",
+      "img":"https://s-cdn.sportbox.ru/images/styles/960_auto/fp_fotos/6a/a6/4102c1e18cd9207f757885c68a5739585dbbff35b9d0e340932838.jpg",
+      "link":"https://bl.uma.media/live/407384/HLS/6307840_7,4280320/2/1/playlist.m3u8"
+        },
+{
+          "title":"MATH",
+      "img":"https://s-cdn.sportbox.ru/images/styles/960_auto/fp_fotos/6a/a6/4102c1e18cd9207f757885c68a5739585dbbff35b9d0e340932838.jpg",
+      "link":"https://bl.uma.media/live/407384/HLS/6307840_7/2/1/playlist.m3u8"
+        },
+
+
+{
+          "title":"Bein Max 1",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv0vJRoHdf5EubC1ZL3HBhuBP370RtlLWjfbqCsyDvdaCgfurQpb-qeyQ8BOu1fDgFaAk1dWbuwABPGocpcV9-EhYsmz9k0LHU9namSMZcJS37fDIzQRHDuRSiKSoBMXG_gpxce2RqLOWnNlvamcrGcuMuBUdAudhEvaukh44umIwRRkCdxNS3Y8hwhQ/s320/IMG_20221211_085615.jpg",
+      "link":"http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/72"
+        },
+{
+          "title":"Bein Max 2",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiwedlex40bu_MKVpkf7OeCmDDk9ueJHdC7RMDBESuAb3Wwra8vXm0353vDVJX93ETHuHFxqPpfvyJIJGAcgTEvQ8mLFn1BKkWftX3XYfcfbSOS5wZcIOfXvKRP-Pkl7C3YLnfVH8L_fqqGG5yw1tixRm-02Gv2-cExsCP5a8c8WMWuXMzYdAjGG5MzQ/s320/IMG_20221211_085635.jpg",
+      "link":"http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/73"
+        },
+{
+          "title":"Bein Max 3",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimEH6BiuRgNGE-pG3KItgJKNLFQMyr_q4EbkP5jC8EXR-olankHbiWOuYNsuNiWw2fQyHnG6UL8rtIwZBMpiGPybKogmcWl8KzDu0RwOT2isNDSvqg0_1rjshf07v8U80MPeMQc74c_r71e1ncFnu5mNWTEzUK0b7nLbfh96sKiq2MEHGr06gfi_eo4A/s320/IMG_20221211_085649.jpg",
+      "link":"http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/74"
+        },
+{
+          "title":"Bein Max 4",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvdLjGs84Okh9FkxA_YFmYUynYS-KgKaff4_LnZL7PPe_nBKv1jvSjjvYxb5CmxRQWfyN6REv2wHL6mH8D1aSBJ2A-Xw_JIyvg-VbDhKc3h8_JOZmqx3Yd5F4hQ18tcGGqfYNj2spPdE1KIP21aaTgW_8T0qiNHipuq8MeaNqkj-7aV2yhqiRoV2hQvA/s320/IMG_20221211_085706.jpg",
+      "link":"http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/75"
+        },
+{
+          "title":"Bein Max 5",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3A3NJs2jVN0JhsjEwQlDnlTnI9WR3jZoPHlT0IShQqVcxmNE4ETenBf5hFhEDtaddmF6QwV6fw7u9K-k0sWjQUraZHG-VRRKf-r9zraUCxfjTZyMCnldtZqaRvNnBT7YFZ3A9vXWLbN_9FXheO1Nr1B7ToeYrBi1IOAJ8gGMgA9VI5AqZjOMdIwAICg/s320/IMG_20221211_085727.jpg",
+      "link":"http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/76"
+        },
+{
+          "title":"Bein Max 6",
+      "img":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdcw72_QsDY1W3054fKXdz-cLMltt_w6wda3bzM7Bl8RuXLtrLpXc_kUV7-PMjJA05pgfzG_enkPIYFz6djw2mBe2VfHV0uOCkRvdDUhdN2Vv9C2ZCpT4n_9Bn1yFFMQjK1LXOq2W_dOBwOUF9IsZ1ExjrYn7AFzwSLZ0eOf0LdAk0lSgJhKA5zOjeEQ/s320/IMG_20221211_085753.jpg",
+      "link":"http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/77"
+        }
+    
+    ]
