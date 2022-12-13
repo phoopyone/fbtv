@@ -125,6 +125,29 @@
       "img":"https://petervasvari.com/upload/58983b95b3d85/58983bd087e20.jpg",
       "link":"https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8"
         },
+          { 
+        "title":"VTV 2 FHD",
+      "img":"https://lichtruyenhinh.com/wp-content/uploads/2022/03/Lich-phat-song-vtv2-www.lichtruyenhinh.com_.jpeg",
+      "link":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+      },
+      
+        {
+          "title":"VTV 3 FHD",
+      "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Truyen-hinh-vtv3.png/640px-Truyen-hinh-vtv3.png",
+      "link":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
+        },
+      
+        {
+          "title":"VTV 5 FHD",
+      "img":"http://tvonline.vn/wp-content/uploads/2021/10/large_vtv5.png",
+      "link":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
+        },
+      
+        {
+          "title":"VTV 6 FHD",
+      "img":"https://vtv1.mediacdn.vn/zoom/700_438/2014/vtv6-1415613189934.jpg",
+      "link":"http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8"
+        },
 
 
 {"title":"TRT 4K",
